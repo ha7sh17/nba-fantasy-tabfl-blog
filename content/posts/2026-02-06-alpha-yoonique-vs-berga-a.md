@@ -1,5 +1,5 @@
 ---
-title: "🔥 [Week 16] 2/6 Alpha_Yoonique vs 베르가_A 리뷰"
+title: "🔥 [2026-02-06] Alpha_Yoonique vs 베르가_A 리뷰"
 date: 2026-02-06
 draft: false
 categories: ["daily-review"]

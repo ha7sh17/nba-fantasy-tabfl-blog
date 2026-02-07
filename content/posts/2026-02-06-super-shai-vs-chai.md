@@ -1,5 +1,5 @@
 ---
-title: "🔥 [Week 16] 2/6 Super Shai vs Chai 리뷰"
+title: "🔥 [2026-02-06] Super Shai vs Chai 리뷰"
 date: 2026-02-06
 draft: false
 categories: ["daily-review"]
