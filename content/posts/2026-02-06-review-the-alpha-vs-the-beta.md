@@ -16,14 +16,14 @@ description: "Austin Reaves 35점 + KD 31점 = 66점 듀오 폭발! 근데 MPJ�
 
 | 팀 | MIN | PTS | FG% | 3PT | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|
-| **The Alpha** 🔥 | 108 | **85** | .518 | **10** | 17 | 5 | **6** | 2 | 13 |
-| **the beta** | 99 | 51 | .452 | 5 | 12 | **17** | 4 | 0 | 5 |
+| ![The Alpha](/images/teams/the-alpha.png) **The Alpha** 🔥 | 108 | **85** | .518 | **10** | 17 | 5 | **6** | 2 | 13 |
+| ![the beta](/images/teams/the-beta.png) **the beta** | 99 | 51 | .452 | 5 | 12 | **17** | 4 | 0 | 5 |
 
 ### 85점 vs 51점... 화력 차이 ㄷㄷ
 
 ---
 
-## 👑 The Alpha - 듀오 캐리
+## 👑 ![The Alpha](/images/teams/the-alpha.png) The Alpha - 듀오 캐리
 
 ### Austin Reaves - AR-15 발사! 🔫
 
@@ -51,7 +51,7 @@ FG 70.6% | 3PT 62.5%
 
 ---
 
-## 🦊 the beta - 폭스 사냥
+## 🦊 ![the beta](/images/teams/the-beta.png) the beta - 폭스 사냥
 
 ### Desmond Bane - 23점 + 4스틸
 
@@ -94,8 +94,8 @@ FG 70.6% | 3PT 62.5%
 
 | 팀 | 3점 성공 | 슈터들 |
 |----|---------|--------|
-| The Alpha | **10개** | Reaves(5), KD(3), MPJ(2) |
-| the beta | 5개 | Fox(3), Bane(1), Daniels(1) |
+| ![The Alpha](/images/teams/the-alpha.png) The Alpha | **10개** | Reaves(5), KD(3), MPJ(2) |
+| ![the beta](/images/teams/the-beta.png) the beta | 5개 | Fox(3), Bane(1), Daniels(1) |
 
 **2배 차이!** 3점에서 The Alpha 압도.
 
@@ -103,7 +103,7 @@ FG 70.6% | 3PT 62.5%
 
 ## ⚖️ 어시스트 vs 득점
 
-| 카테고리 | The Alpha | the beta | 승자 |
+| 카테고리 | ![The Alpha](/images/teams/the-alpha.png) The Alpha | ![the beta](/images/teams/the-beta.png) the beta | 승자 |
 |----------|-----------|----------|------|
 | 득점 | **85** | 51 | The Alpha |
 | 어시스트 | 5 | **17** | the beta |
@@ -117,12 +117,12 @@ the beta가 패스 게임에서 우위!
 
 ## 🔥 결론
 
-**The Alpha 압승!** 🏆
+**![The Alpha](/images/teams/the-alpha.png) The Alpha 압승!** 🏆
 
 AR-15 + KD 듀오가 66점 합작.
 MPJ 부진에도 불구하고 화력으로 압도.
 
-the beta는 어시스트에서 이겼지만
+![the beta](/images/teams/the-beta.png) the beta는 어시스트에서 이겼지만
 득점 34점 차이는 극복 불가 😢
 
 ---

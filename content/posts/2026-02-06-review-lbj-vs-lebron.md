@@ -16,14 +16,14 @@ description: "팀명부터 르브론 팬들ㅋㅋ NAW 23점 vs VJ Edgecombe 더�
 
 | 팀 | MIN | PTS | FG% | 3PT | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|
-| **LBJ** 🔥 | 96 | **50** | .487 | 0 | 18 | 10 | **6** | 2 | 9 |
-| **LeBron🦅** | 98 | 38 | .385 | 3 | **28** | 12 | 5 | 2 | 6 |
+| ![LBJ](/images/teams/lbj.jpg) **LBJ** 🔥 | 96 | **50** | .487 | 0 | 18 | 10 | **6** | 2 | 9 |
+| ![LeBron🦅](/images/teams/lebron.jpg) **LeBron🦅** | 98 | 38 | .385 | 3 | **28** | 12 | 5 | 2 | 6 |
 
 ### 스틸 6개 vs 리바운드 28개... 스타일 차이 ㅋㅋ
 
 ---
 
-## 🔥 LBJ - 스틸 파티
+## 🔥 ![LBJ](/images/teams/lbj.jpg) LBJ - 스틸 파티
 
 ### Nickeil Alexander-Walker
 
@@ -46,7 +46,7 @@ description: "팀명부터 르브론 팬들ㅋㅋ NAW 23점 vs VJ Edgecombe 더�
 
 ---
 
-## 🦅 LeBron🦅 - 리바운드 머신
+## 🦅 ![LeBron🦅](/images/teams/lebron.jpg) LeBron🦅 - 리바운드 머신
 
 ### VJ Edgecombe - 필라 신인의 각성
 
@@ -65,8 +65,8 @@ description: "팀명부터 르브론 팬들ㅋㅋ NAW 23점 vs VJ Edgecombe 더�
 
 | 선수 | 팀 | 스탯 | 승자 |
 |------|-----|------|------|
-| **Ausar Thompson** | LBJ | 13-9-4스틸-2블록 | 🏆 수비 |
-| **VJ Edgecombe** | LeBron🦅 | 19-10-4스틸 | 🏆 득점 |
+| **Ausar Thompson** | ![LBJ](/images/teams/lbj.jpg) LBJ | 13-9-4스틸-2블록 | 🏆 수비 |
+| **VJ Edgecombe** | ![LeBron🦅](/images/teams/lebron.jpg) LeBron🦅 | 19-10-4스틸 | 🏆 득점 |
 
 **둘 다 미래가 기대되는 신인들!** ✨
 
@@ -89,7 +89,7 @@ description: "팀명부터 르브론 팬들ㅋㅋ NAW 23점 vs VJ Edgecombe 더�
 
 ## 🔥 결론
 
-**LBJ 근소 우세** ⚔️
+**![LBJ](/images/teams/lbj.jpg) LBJ 근소 우세** ⚔️
 
 득점에서 LBJ가 앞섰지만
 리바운드는 LeBron🦅이 압도.

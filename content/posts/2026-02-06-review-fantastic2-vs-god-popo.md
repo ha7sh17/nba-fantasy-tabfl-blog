@@ -16,14 +16,14 @@ description: "Brandon Ingram 토론토 이적 후 최고 경기! 근데 God Popo
 
 | 팀 | MIN | PTS | FG% | 3PT | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|
-| **Fantastic2** | 90 | 52 | .526 | 5 | 16 | 9 | 0 | 5 | 4 |
-| **God Popo** 🔥 | 107 | 51 | .457 | 1 | 9 | **30** | 5 | 2 | 17 |
+| ![Fantastic2](/images/teams/fantastic2.png) **Fantastic2** | 90 | 52 | .526 | 5 | 16 | 9 | 0 | 5 | 4 |
+| ![God Popo](/images/teams/god-popo.jpg) **God Popo** 🔥 | 107 | 51 | .457 | 1 | 9 | **30** | 5 | 2 | 17 |
 
 ### 30어시 ㅋㅋㅋㅋㅋ 이게 뭐냐
 
 ---
 
-## 👑 Fantastic2 MVP
+## 👑 ![Fantastic2](/images/teams/fantastic2.png) Fantastic2 MVP
 
 ### Brandon Ingram - 33점 대폭발 💣
 
@@ -42,7 +42,7 @@ FG 60%, 3점 55.6%... 효율 미쳤음 🔥
 
 ---
 
-## 👑 God Popo - 더블더블이 2개??
+## 👑 ![God Popo](/images/teams/god-popo.jpg) God Popo - 더블더블이 2개??
 
 ### Tyrese Maxey
 
@@ -73,13 +73,13 @@ FG 60%, 3점 55.6%... 효율 미쳤음 🔥
 | LeBron James | 10개 | 서브 플메 |
 | Amen Thompson | 7개 | 써드 플메 |
 
-**God Popo 전원이 패서임** ㅋㅋㅋ
+**![God Popo](/images/teams/god-popo.jpg) God Popo 전원이 패서임** ㅋㅋㅋ
 
 ---
 
 ## 😱 근데 턴오버가...
 
-God Popo 턴오버 **17개** (Fantastic2의 4배)
+![God Popo](/images/teams/god-popo.jpg) God Popo 턴오버 **17개** (Fantastic2의 4배)
 
 패스를 많이 하면 실수도 많은 법...
 그래도 30어시면 ㄹㅇ 인정 👏
@@ -93,7 +93,7 @@ God Popo 턴오버 **17개** (Fantastic2의 4배)
 BI 33점 vs 맥시+르브론 더블더블 쌍둥이
 서로 다른 스타일로 팽팽한 대결!
 
-1위 God Popo의 위엄은 여전함 👑
+1위 ![God Popo](/images/teams/god-popo.jpg) God Popo의 위엄은 여전함 👑
 
 ---
 

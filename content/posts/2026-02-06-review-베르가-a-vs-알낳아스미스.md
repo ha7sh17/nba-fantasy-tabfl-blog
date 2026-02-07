@@ -16,14 +16,14 @@ description: "Jalen Johnson 22-16-15 트리플더블!! 포워드가 15어시?? �
 
 | 팀 | MIN | PTS | FG% | 3PT | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|
-| **베르가_A** | 67 | 40 | .484 | 2 | 18 | **20** | 1 | 3 | 4 |
-| **알낳아스미스** 🔥 | 113 | **55** | **.622** | 4 | 22 | 13 | **6** | 2 | 5 |
+| ![베르가_A](/images/teams/verga-a.png) **베르가_A** | 67 | 40 | .484 | 2 | 18 | **20** | 1 | 3 | 4 |
+| ![알낳아스미스](/images/teams/alnat-asmith.png) **알낳아스미스** 🔥 | 113 | **55** | **.622** | 4 | 22 | 13 | **6** | 2 | 5 |
 
 ### FG 62.2%... 그냥 다 들어간 거 아님?? 😱
 
 ---
 
-## 👑 베르가_A - 역대급 트리플더블
+## 👑 ![베르가_A](/images/teams/verga-a.png) 베르가_A - 역대급 트리플더블
 
 ### Jalen Johnson - 포워드의 한계 돌파
 
@@ -47,7 +47,7 @@ description: "Jalen Johnson 22-16-15 트리플더블!! 포워드가 15어시?? �
 
 ---
 
-## 👑 알낳아스미스 - 효율의 신
+## 👑 ![알낳아스미스](/images/teams/alnat-asmith.png) 알낳아스미스 - 효율의 신
 
 ### Jabari Smith Jr. - 70% FG??
 
@@ -73,8 +73,8 @@ description: "Jalen Johnson 22-16-15 트리플더블!! 포워드가 15어시?? �
 
 | 팀 | 스틸 | 주요 도둑 |
 |----|------|----------|
-| 알낳아스미스 | **6개** | 캐슬(3), 굿윈(2) |
-| 베르가_A | 1개 | ... |
+| ![알낳아스미스](/images/teams/alnat-asmith.png) 알낳아스미스 | **6개** | 캐슬(3), 굿윈(2) |
+| ![베르가_A](/images/teams/verga-a.png) 베르가_A | 1개 | ... |
 
 **6배 차이** ㅋㅋ
 알낳아스미스 수비가 터짐
@@ -83,8 +83,8 @@ description: "Jalen Johnson 22-16-15 트리플더블!! 포워드가 15어시?? �
 
 ## 😢 부상자 명단
 
-**베르가_A**: Kawhi Leonard ❌, DeMar DeRozan ❌
-**알낳아스미스**: Shai Gilgeous-Alexander ❌
+**![베르가_A](/images/teams/verga-a.png) 베르가_A**: Kawhi Leonard ❌, DeMar DeRozan ❌
+**![알낳아스미스](/images/teams/alnat-asmith.png) 알낳아스미스**: Shai Gilgeous-Alexander ❌
 
 둘 다 핵심 선수 없이 싸움...
 SGA만 있었으면 ㄹㅇ 달랐을 듯 😭
@@ -93,7 +93,7 @@ SGA만 있었으면 ㄹㅇ 달랐을 듯 😭
 
 ## 🔥 결론
 
-**알낳아스미스 우세!** 🏆
+**![알낳아스미스](/images/teams/alnat-asmith.png) 알낳아스미스 우세!** 🏆
 
 FG 62.2%의 미친 효율로
 득점과 리바운드에서 압도.

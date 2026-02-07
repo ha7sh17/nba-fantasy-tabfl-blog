@@ -1,5 +1,5 @@
 ---
-title: "🏀 [Week 16] 스테고 vs The Alpha - 케이드 & 스코티 듀오 폭발"
+title: "🏀 [Week 16] 스테고 vs Alpha_Yoonique - 케이드 & 스코티 듀오 폭발"
 date: 2026-02-06T18:00:00+09:00
 draft: false
 tags: ["스테고", "Alpha_Yoonique"]
@@ -16,8 +16,8 @@ description: "Cade Cunningham 30점, Scottie Barnes 25점... 둘이 합쳐서 �
 
 | 팀 | MIN | PTS | FG% | 3PT | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|
-| **스테고** 🔥 | 104 | **75** | .481 | 7 | 22 | **20** | 2 | 0 | 8 |
-| **The Alpha** | 62 | 34 | .436 | 5 | 10 | 3 | 2 | 0 | 6 |
+| ![스테고](/images/teams/stego.png) **스테고** 🔥 | 104 | **75** | .481 | 7 | 22 | **20** | 2 | 0 | 8 |
+| ![Alpha_Yoonique](/images/teams/alpha-yoonique.gif) **Alpha_Yoonique** | 62 | 34 | .436 | 5 | 10 | 3 | 2 | 0 | 6 |
 
 ### 20어시 vs 3어시... 이게 말이 됨? 😂
 
@@ -52,7 +52,7 @@ description: "Cade Cunningham 30점, Scottie Barnes 25점... 둘이 합쳐서 �
 
 ---
 
-## 😢 The Alpha는요...
+## 😢 Alpha_Yoonique는요...
 
 ### Kevin Durant - 혼자 70% 책임
 
@@ -70,8 +70,8 @@ KD 혼자 팀 득점의 70% 넣음...
 
 | 팀 | 어시스트 | 느낌 |
 |----|---------|------|
-| 스테고 | **20개** | 팀플 미쳤음 |
-| The Alpha | 3개 | ... |
+| ![스테고](/images/teams/stego.png) 스테고 | **20개** | 팀플 미쳤음 |
+| ![Alpha_Yoonique](/images/teams/alpha-yoonique.gif) Alpha_Yoonique | 3개 | ... |
 
 17개 차이남 ㅋㅋㅋㅋ
 케이드(9) + 스코티(8) 둘이서 상대팀 전체의 5배 넘음
@@ -80,12 +80,12 @@ KD 혼자 팀 득점의 70% 넣음...
 
 ## 🔥 결론
 
-**스테고 압승** 🏆
+**![스테고](/images/teams/stego.png) 스테고 압승** 🏆
 
 케이드 + 스코티 듀오가 리그 최강급임을 증명.
-The Alpha는 KD 혼자 고군분투했지만 역부족.
+Alpha_Yoonique는 KD 혼자 고군분투했지만 역부족.
 
-다음 주 The Alpha 화이팅! 💪
+다음 주 Alpha_Yoonique 화이팅! 💪
 
 ---
 
