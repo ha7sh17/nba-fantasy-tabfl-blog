@@ -2,7 +2,7 @@
 title: "🏀 [Week 16] 스테고 vs The Alpha - 케이드 & 스코티 듀오 폭발"
 date: 2026-02-06T18:00:00+09:00
 draft: false
-tags: ["review", "스테고", "The Alpha", "케이드", "스코티"]
+tags: ["스테고", "Alpha_Yoonique"]
 description: "Cade Cunningham 30점, Scottie Barnes 25점... 둘이 합쳐서 거의 트리플더블 x2 ㄷㄷ"
 ---
 

@@ -25,30 +25,15 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    identifier = "predictions"
-    name = "🔮 예측"
-    url = "/tags/prediction/"
-    weight = 10
-  [[menu.main]]
-    identifier = "reviews"
-    name = "📊 리뷰"
-    url = "/tags/review/"
-    weight = 20
-  [[menu.main]]
-    identifier = "weekly"
-    name = "📅 주간"
-    url = "/tags/weekly/"
-    weight = 30
-  [[menu.main]]
     identifier = "teams"
     name = "🏀 팀별"
     url = "/tags/"
-    weight = 35
+    weight = 10
   [[menu.main]]
     identifier = "archive"
     name = "📚 아카이브"
     url = "/archives/"
-    weight = 40
+    weight = 20
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

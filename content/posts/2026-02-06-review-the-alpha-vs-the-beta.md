@@ -2,7 +2,7 @@
 title: "⚔️ [Week 16] The Alpha vs the beta - AR-15 폭발 vs 폭스 사냥"
 date: 2026-02-06T18:00:00+09:00
 draft: false
-tags: ["review", "The Alpha", "the beta_나는 돌맹이🥌", "Austin Reaves", "Kevin Durant"]
+tags: ["The Alpha", "the beta_나는 돌맹이🥌"]
 description: "Austin Reaves 35점 + KD 31점 = 66점 듀오 폭발! 근데 MPJ는 왜 15%야... 🤯"
 ---
 

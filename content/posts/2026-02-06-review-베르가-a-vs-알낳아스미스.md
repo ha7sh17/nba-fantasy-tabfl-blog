@@ -2,7 +2,7 @@
 title: "🔥 [Week 16] 베르가_A vs 알낳아스미스 - JJ 트리플더블 vs 효율의 신"
 date: 2026-02-06T18:00:00+09:00
 draft: false
-tags: ["review", "베르가_A", "알낳아스미스", "Jalen Johnson", "트리플더블"]
+tags: ["베르가_A", "알낳아스미스"]
 description: "Jalen Johnson 22-16-15 트리플더블!! 포워드가 15어시?? 근데 알낳아스미스 FG 62%는 뭐냐 🤯"
 ---
 
