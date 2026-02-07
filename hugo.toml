@@ -14,10 +14,6 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
   
-  [params.homeInfoParams]
-    Title = "🏀 TABFL 판타지 농구"
-    Content = "14팀이 펼치는 Yahoo NBA 판타지 리그의 매일 경기 예측과 리뷰. Since 2020."
-  
   [[params.socialIcons]]
     name = "yahoo"
     url = "https://basketball.fantasysports.yahoo.com/nba/2110"
