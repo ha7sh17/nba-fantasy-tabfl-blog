@@ -4,10 +4,6 @@ date: 2026-02-06T18:00:00+09:00
 draft: false
 tags: ["review", "Chai", "gohay", "트리플더블", "역대급"]
 description: "Jalen Suggs 트리플더블에 4블록?? 가드가요?? Chai 128점 ㄹㅇ 미쳤음 🚀"
-cover:
-  image: "/images/tabfl.png"
-  alt: "TABFL Logo"
-  relative: false
 ---
 
 ## 🚨 오늘의 한줄평

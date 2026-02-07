@@ -4,10 +4,6 @@ date: 2026-02-06T18:00:00+09:00
 draft: false
 tags: ["review", "LBJ", "LeBron🦅", "신인대결"]
 description: "팀명부터 르브론 팬들ㅋㅋ NAW 23점 vs VJ Edgecombe 더블더블! 신인들의 스틸 파티 🔥"
-cover:
-  image: "/images/tabfl.png"
-  alt: "TABFL Logo"
-  relative: false
 ---
 
 ## 🚨 오늘의 한줄평

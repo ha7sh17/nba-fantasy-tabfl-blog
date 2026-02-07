@@ -4,10 +4,6 @@ date: 2026-02-06T18:00:00+09:00
 draft: false
 tags: ["review", "베르가_A", "알낳아스미스", "Jalen Johnson", "트리플더블"]
 description: "Jalen Johnson 22-16-15 트리플더블!! 포워드가 15어시?? 근데 알낳아스미스 FG 62%는 뭐냐 🤯"
-cover:
-  image: "/images/tabfl.png"
-  alt: "TABFL Logo"
-  relative: false
 ---
 
 ## 🚨 오늘의 한줄평

@@ -4,10 +4,6 @@ date: 2026-02-06T18:00:00+09:00
 draft: false
 tags: ["review", "Super Shai", "마파", "LaMelo Ball", "3점슛"]
 description: "마파 3점슛 12개 폭발! 라멜로 5개 쏨 🎯 근데 Super Shai 샬롯 군단도 만만치 않음"
-cover:
-  image: "/images/tabfl.png"
-  alt: "TABFL Logo"
-  relative: false
 ---
 
 ## 🚨 오늘의 한줄평

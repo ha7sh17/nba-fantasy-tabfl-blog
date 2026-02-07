@@ -4,10 +4,6 @@ date: 2026-02-06T18:00:00+09:00
 draft: false
 tags: ["review", "Fantastic2", "God Popo", "Brandon Ingram", "Tyrese Maxey"]
 description: "Brandon Ingram 토론토 이적 후 최고 경기! 근데 God Popo는 더블더블이 2개?? 🤯"
-cover:
-  image: "/images/tabfl.png"
-  alt: "TABFL Logo"
-  relative: false
 ---
 
 ## 🚨 오늘의 한줄평
