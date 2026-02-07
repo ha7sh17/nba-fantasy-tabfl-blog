@@ -40,6 +40,11 @@ theme = "PaperMod"
     url = "/tags/weekly/"
     weight = 30
   [[menu.main]]
+    identifier = "teams"
+    name = "🏀 팀별"
+    url = "/tags/"
+    weight = 35
+  [[menu.main]]
     identifier = "archive"
     name = "📚 아카이브"
     url = "/archives/"
