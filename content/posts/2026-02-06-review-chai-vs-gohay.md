@@ -1,7 +1,8 @@
 ---
-title: "🔥 [Week 16] Chai vs gohay - 128점 핵폭탄 투하"
+title: "🔥 [리뷰] [Week 16] Chai vs gohay - 128점 핵폭탄 투하"
 date: 2026-02-06T18:00:00+09:00
 draft: false
+categories: ["리뷰"]
 tags: ["Chai", "gohay"]
 description: "Jalen Suggs 트리플더블에 4블록?? 가드가요?? Chai 128점 ㄹㅇ 미쳤음 🚀"
 ---

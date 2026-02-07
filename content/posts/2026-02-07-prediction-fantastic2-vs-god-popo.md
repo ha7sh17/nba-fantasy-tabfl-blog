@@ -1,7 +1,8 @@
 ---
-title: "🔮 [Week 16] Fantastic2 vs God Popo - 1위의 위엄 vs BI의 부활"
+title: "🔮 [예측] [Week 16] Fantastic2 vs God Popo - 1위의 위엄 vs BI의 부활"
 date: 2026-02-07T03:00:00+09:00
 draft: false
+categories: ["예측"]
 tags: ["Fantastic2", "God Popo"]
 description: "리그 1위 God Popo! 맥시+르브론 조합이면 ㄹㅇ 무적 아님?? 🔥"
 ---

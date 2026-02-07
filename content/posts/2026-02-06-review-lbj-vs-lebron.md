@@ -1,7 +1,8 @@
 ---
-title: "👑 [Week 16] LBJ vs LeBron🦅 - 르브론 팬들의 내전"
+title: "👑 [리뷰] [Week 16] LBJ vs LeBron🦅 - 르브론 팬들의 내전"
 date: 2026-02-06T18:00:00+09:00
 draft: false
+categories: ["리뷰"]
 tags: ["LBJ", "LeBron🦅"]
 description: "팀명부터 르브론 팬들ㅋㅋ NAW 23점 vs VJ Edgecombe 더블더블! 신인들의 스틸 파티 🔥"
 ---

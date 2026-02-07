@@ -1,7 +1,8 @@
 ---
-title: "🔮 [Week 16] LBJ vs LeBron🦅 - 르브론 팬들의 예언"
+title: "🔮 [예측] [Week 16] LBJ vs LeBron🦅 - 르브론 팬들의 예언"
 date: 2026-02-07T03:00:00+09:00
 draft: false
+categories: ["예측"]
 tags: ["LBJ", "LeBron🦅"]
 description: "팀명부터 르브론 덕후들ㅋㅋ 오늘 누가 이길까? 🦅"
 ---

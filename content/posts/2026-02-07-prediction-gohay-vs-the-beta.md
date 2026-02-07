@@ -1,7 +1,8 @@
 ---
-title: "🔮 [Week 16] gohay vs the beta - 3위 vs 9위 빅매치"
+title: "🔮 [예측] [Week 16] gohay vs the beta - 3위 vs 9위 빅매치"
 date: 2026-02-07T03:00:00+09:00
 draft: false
+categories: ["예측"]
 tags: ["gohay", "the beta_나는 돌맹이🥌"]
 description: "3위 the beta의 De'Aaron Fox vs gohay의 반격! 🦊"
 ---

@@ -1,7 +1,8 @@
 ---
-title: "🔥 [Week 16] Fantastic2 vs God Popo - BI 33점 폭발 vs 더블 더블더블!"
+title: "🔥 [리뷰] [Week 16] Fantastic2 vs God Popo - BI 33점 폭발 vs 더블 더블더블!"
 date: 2026-02-06T18:00:00+09:00
 draft: false
+categories: ["리뷰"]
 tags: ["Fantastic2", "God Popo"]
 description: "Brandon Ingram 토론토 이적 후 최고 경기! 근데 God Popo는 더블더블이 2개?? 🤯"
 ---

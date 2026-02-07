@@ -1,7 +1,8 @@
 ---
-title: "🐝 [Week 16] Super Shai vs 마파 - 샬롯 vs 피닉스 3점 대전"
+title: "🐝 [리뷰] [Week 16] Super Shai vs 마파 - 샬롯 vs 피닉스 3점 대전"
 date: 2026-02-06T18:00:00+09:00
 draft: false
+categories: ["리뷰"]
 tags: ["Super Shai", "마파"]
 description: "마파 3점슛 12개 폭발! 라멜로 5개 쏨 🎯 근데 Super Shai 샬롯 군단도 만만치 않음"
 ---

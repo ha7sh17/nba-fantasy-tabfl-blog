@@ -1,7 +1,8 @@
 ---
-title: "🔮 [Week 16] Alpha_Yoonique vs 베르가_A - JJ의 날이 될까?"
+title: "🔮 [예측] [Week 16] Alpha_Yoonique vs 베르가_A - JJ의 날이 될까?"
 date: 2026-02-07T03:00:00+09:00
 draft: false
+categories: ["예측"]
 tags: ["Alpha_Yoonique", "베르가_A"]
 description: "Jalen Johnson이 또 터지면 베르가_A 승! 근데 Alpha_Yoonique도 만만찮음 🦁"
 ---
