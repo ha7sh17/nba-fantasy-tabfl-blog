@@ -1,6 +1,6 @@
 ---
 title: "🔮 [2026-02-06] gohay vs the beta - 3위 vs 9위 빅매치"
-date: 2026-02-06T03:00:00+09:00
+date: 2026-02-06
 draft: false
 categories: ["예측"]
 tags: ["gohay", "the beta_나는 돌맹이🥌"]

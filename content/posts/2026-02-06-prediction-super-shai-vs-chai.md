@@ -1,6 +1,6 @@
 ---
 title: "🔮 [2026-02-06] Super Shai vs Chai - 올랜도 트리오 터지나?"
-date: 2026-02-06T03:00:00+09:00
+date: 2026-02-06
 draft: false
 categories: ["예측"]
 tags: ["Super Shai", "Chai"]

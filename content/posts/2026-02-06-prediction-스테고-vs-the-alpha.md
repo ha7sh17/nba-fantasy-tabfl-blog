@@ -1,6 +1,6 @@
 ---
 title: "🔮 [2026-02-06] 스테고 vs The Alpha - 케이드 vs KD 빅매치 예측"
-date: 2026-02-06T03:00:00+09:00
+date: 2026-02-06
 draft: false
 categories: ["예측"]
 tags: ["스테고", "The Alpha"]

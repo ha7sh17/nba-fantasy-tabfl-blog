@@ -1,6 +1,6 @@
 ---
 title: "🔮 [2026-02-06] Fantastic2 vs God Popo - 1위의 위엄 vs BI의 부활"
-date: 2026-02-06T03:00:00+09:00
+date: 2026-02-06
 draft: false
 categories: ["예측"]
 tags: ["Fantastic2", "God Popo"]
