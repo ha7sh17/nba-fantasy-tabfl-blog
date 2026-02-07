@@ -1,93 +1,63 @@
 ---
-title: "🏀 [2026-02-05] 스테고 vs Alpha_Yoonique - 케이드 & 스코티 듀오 폭발"
-date: 2026-02-06T18:00:00+09:00
+title: "[Week 16] 2/5 데일리 리뷰: 스테고 vs The Alpha"
+date: 2026-02-06T07:00:00+09:00
 draft: false
-categories: ["리뷰"]
-tags: ["스테고", "Alpha_Yoonique"]
-description: "Cade Cunningham 30점, Scottie Barnes 25점... 둘이 합쳐서 거의 트리플더블 x2 ㄷㄷ"
+categories: ["daily-review"]
+tags: ["week16", "스테고", "The Alpha"]
+matchup: "스테고 vs The Alpha"
+week: 16
 ---
 
-## 🚨 오늘의 한줄평
+## 📊 2/5 경기 결과
 
-> **"케이드 + 스코티 = 팀 그 자체"** 
+| 팀 | PTS | REB | AST | STL | BLK |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **스테고** | 61 | 19 | 16 | 1 | 1 |
+| **The Alpha** | 85 | 17 | 5 | 6 | 2 |
 
----
+### 🏆 오늘의 승자: The Alpha
 
-## 📊 스탯 비교
-
-| 팀 | MIN | PTS | FG% | 3PT | REB | AST | STL | BLK | TO |
-|---|---|---|---|---|---|---|---|---|---|
-| ![스테고](/images/teams/stego.png) **스테고** 🔥 | 104 | **75** | .481 | 7 | 22 | **20** | 2 | 0 | 8 |
-| ![Alpha_Yoonique](/images/teams/alpha-yoonique.gif) **Alpha_Yoonique** | 62 | 34 | .436 | 5 | 10 | 3 | 2 | 0 | 6 |
-
-### 20어시 vs 3어시... 이게 말이 됨? 😂
+The Alpha가 득점 85-61, 스틸 6-1로 압도하며 2/5를 가져갔다!
 
 ---
 
-## 👑 MVP 듀오
+## ⭐ 오늘의 MVP
 
-### Cade Cunningham - 거의 트리플더블
+**Austin Reaves (The Alpha)** - 35 PTS, 6 REB, 2 AST, .706 FG%
 
-```
-30득점 | 8리바운드 | 9어시스트
-```
-
-**9어시면 그냥 트리플더블이잖아 ㅠㅠ**
-1개 모자란 게 더 아까움 ㄹㅇ
-
-올해 케이드 진짜 각성함. 
-드래프트 1픽 값 제대로 하는 중 💪
-
-### Scottie Barnes - 토론토의 미래
-
-```
-25득점 | 9리바운드 | 8어시스트
-```
-
-시카고 상대로 토론토 승리 견인!
-얘도 트리플더블 1개씩 모자름 ㅋㅋ
-
-> **케이드 + 스코티 합산: 55점 17리바운드 17어시스트**
-> 
-> 둘이서 팀 스탯 다 채움 ㄷㄷ
+레이커스 vs 필라델피아 홈경기에서 폭발! 5개 3점슛을 터뜨리며 35점을 기록했다. Kevin Durant도 31점 5스틸로 뒤를 받쳐줬지만, Reaves의 효율적인 득점이 이 날의 하이라이트.
 
 ---
 
-## 😢 Alpha_Yoonique는요...
+## 📈 주요 퍼포먼스
 
-### Kevin Durant - 혼자 70% 책임
+### 스테고
+- **Cade Cunningham**: 30 PTS, 8 REB, 8 AST (L vs WAS)
+- **Lauri Markkanen**: 18 PTS, 5 REB, .500 FG% (L @ ATL)
+- **Scottie Barnes**: 13 PTS, 6 REB, 7 AST (W vs CHI)
 
-**24득점 9리바운드**
+케이드가 30점 가까운 트리플더블에 근접했지만, 팀이 3명 뿐이라 물량에서 밀렸다.
 
-KD 혼자 팀 득점의 70% 넣음...
-근데 팀 전체가 62분밖에 못 뜀.
-경기 수가 적으니 어쩔 수 없었음 😭
+### The Alpha
+- **Austin Reaves**: 35 PTS, 6 REB, 2 AST, .706 FG% (W vs PHI)
+- **Kevin Durant**: 31 PTS, 3 REB, 5 STL (L vs CHA)
+- **Deandre Ayton**: 10 PTS, 6 REB, 2 BLK (W vs PHI)
+- **Michael Porter Jr.**: 9 PTS, 2 REB, .154 FG% (L @ ORL)
 
-![KD Sad](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
-
----
-
-## 🎯 어시스트 차이 ㄹㅇ
-
-| 팀 | 어시스트 | 느낌 |
-|----|---------|------|
-| ![스테고](/images/teams/stego.png) 스테고 | **20개** | 팀플 미쳤음 |
-| ![Alpha_Yoonique](/images/teams/alpha-yoonique.gif) Alpha_Yoonique | 3개 | ... |
-
-17개 차이남 ㅋㅋㅋㅋ
-케이드(9) + 스코티(8) 둘이서 상대팀 전체의 5배 넘음
+MPJ가 .154 FG%로 대폭망했지만, Reaves와 KD가 충분히 커버해줬다.
 
 ---
 
-## 🔥 결론
+## 🔥 이 경기의 포인트
 
-**![스테고](/images/teams/stego.png) 스테고 압승** 🏆
-
-케이드 + 스코티 듀오가 리그 최강급임을 증명.
-Alpha_Yoonique는 KD 혼자 고군분투했지만 역부족.
-
-다음 주 Alpha_Yoonique 화이팅! 💪
+1. **레이커스 듀오 폭발** - Reaves 35점 + Ayton 10점으로 LAL 선수들이 2/5 캐리
+2. **KD의 스틸 머신** - 5스틸로 혼자 스테고 전체(1스틸)보다 많음
+3. **케이드의 고군분투** - 30-8-8의 몬스터 라인도 팀 열세에 묻힘
 
 ---
 
-*TABFL Week 16 - 듀오의 힘* 🏀
+## 📋 Week 16 누적 현황
+
+**스테고** 10 vs 5 **The Alpha** (Wed 2/4 기준)
+
+스테고가 주간 리드를 유지 중이지만, The Alpha가 2/5 선전으로 추격 중!

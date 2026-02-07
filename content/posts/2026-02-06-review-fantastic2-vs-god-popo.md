@@ -1,101 +1,62 @@
 ---
-title: "🔥 [2026-02-05] Fantastic2 vs God Popo - BI 33점 폭발 vs 더블 더블더블!"
-date: 2026-02-06T18:00:00+09:00
+title: "[Week 16] 2/5 데일리 리뷰: Fantastic2 vs God Popo"
+date: 2026-02-06T07:00:02+09:00
 draft: false
-categories: ["리뷰"]
-tags: ["Fantastic2", "God Popo"]
-description: "Brandon Ingram 토론토 이적 후 최고 경기! 근데 God Popo는 더블더블이 2개?? 🤯"
+categories: ["daily-review"]
+tags: ["week16", "Fantastic2", "God Popo"]
+matchup: "Fantastic2 vs God Popo"
+week: 16
 ---
 
-## 🚨 오늘의 한줄평
+## 📊 2/5 경기 결과
 
-> **"BI 부활 vs 맥시+르브론 더블더블 쌍둥이"**
+| 팀 | PTS | REB | AST | STL | BLK |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Fantastic2** | 52 | 16 | 9 | 0 | 5 |
+| **God Popo** | 51 | 9 | 30 | 5 | 2 |
 
----
+### 🏆 오늘의 승자: 초접전!
 
-## 📊 스탯 비교
-
-| 팀 | MIN | PTS | FG% | 3PT | REB | AST | STL | BLK | TO |
-|---|---|---|---|---|---|---|---|---|---|
-| ![Fantastic2](/images/teams/fantastic2.png) **Fantastic2** | 90 | 52 | .526 | 5 | 16 | 9 | 0 | 5 | 4 |
-| ![God Popo](/images/teams/god-popo.jpg) **God Popo** 🔥 | 107 | 51 | .457 | 1 | 9 | **30** | 5 | 2 | 17 |
-
-### 30어시 ㅋㅋㅋㅋㅋ 이게 뭐냐
+득점은 Fantastic2가 52-51로 1점 차 리드, 하지만 God Popo가 어시스트 **30-9**로 3배 이상 압도!
 
 ---
 
-## 👑 ![Fantastic2](/images/teams/fantastic2.png) Fantastic2 MVP
+## ⭐ 오늘의 MVP
 
-### Brandon Ingram - 33점 대폭발 💣
+**Brandon Ingram (Fantastic2)** - 33 PTS, 6 REB, 6 AST, 5 3PM
 
-```
-33득점 | 6리바운드 | 6어시스트 | 5개 3점슛
-```
-
-**토론토 이적하더니 완전 부활함**
-
-뉴올리언스에서 묻혀있던 BI가
-토론토 와서 진가 발휘 중!
-
-FG 60%, 3점 55.6%... 효율 미쳤음 🔥
-
-> "이게 진짜 Brandon Ingram이다"
+토론토의 새 에이스 BI가 시카고전에서 대폭발! 60% FG%, 5개 3점슛으로 33점을 뽑아냈다. Fantastic2의 득점을 혼자 63% 책임!
 
 ---
 
-## 👑 ![God Popo](/images/teams/god-popo.jpg) God Popo - 더블더블이 2개??
+## 📈 주요 퍼포먼스
 
-### Tyrese Maxey
+### Fantastic2
+- **Brandon Ingram**: 33 PTS, 6 REB, 6 AST, .600 FG% (W vs CHI)
+- **Mark Williams**: 11 PTS, 10 REB, 1 BLK (L vs GSW)
+- **CJ McCollum**: 8 PTS, 3 AST, 3 BLK (W vs UTA)
 
-```
-26득점 | 13어시스트 | 4스틸
-```
+BI가 원맨쇼, Mark Williams가 더블더블로 지원사격!
 
-레이커스 원정에서 졌지만 맥시는 빛났음.
-혼자서 공격 다 끌고 다님 💨
+### God Popo
+- **Tyrese Maxey**: 26 PTS, 13 AST, 4 STL (L @ LAL)
+- **LeBron James**: 17 PTS, 4 REB, 10 AST, 1 BLK (W vs PHI)
+- **Amen Thompson**: 8 PTS, 5 REB, 7 AST, 1 STL, 1 BLK (L vs CHA)
 
-### LeBron James
-
-```
-17득점 | 10어시스트
-```
-
-**40살인데 아직도 더블더블 찍음** 👑
-
-![LeBron GOAT](https://media.giphy.com/media/l4FGni1RBAR2OWsGk/giphy.gif)
+맥시 26점 13어시 + 르브론 17점 10어시 = 어시스트 괴물 듀오!
 
 ---
 
-## 🤯 30어시스트의 비밀
+## 🔥 이 경기의 포인트
 
-| 선수 | 어시스트 | 역할 |
-|------|---------|------|
-| Tyrese Maxey | 13개 | 메인 플메 |
-| LeBron James | 10개 | 서브 플메 |
-| Amen Thompson | 7개 | 써드 플메 |
-
-**![God Popo](/images/teams/god-popo.jpg) God Popo 전원이 패서임** ㅋㅋㅋ
+1. **어시스트 대학살** - God Popo의 30어시스트는 하루 기준 역대급
+2. **BI의 득점 폭발** - 33점으로 Fantastic2 단독 캐리
+3. **맥시-르브론 콤보** - 두 플레이메이커가 합작 23어시스트
 
 ---
 
-## 😱 근데 턴오버가...
+## 📋 Week 16 누적 현황
 
-![God Popo](/images/teams/god-popo.jpg) God Popo 턴오버 **17개** (Fantastic2의 4배)
+**Fantastic2** 6 vs 9 **God Popo**
 
-패스를 많이 하면 실수도 많은 법...
-그래도 30어시면 ㄹㅇ 인정 👏
-
----
-
-## 🔥 결론
-
-**접전!** ⚔️
-
-BI 33점 vs 맥시+르브론 더블더블 쌍둥이
-서로 다른 스타일로 팽팽한 대결!
-
-1위 ![God Popo](/images/teams/god-popo.jpg) God Popo의 위엄은 여전함 👑
-
----
-
-*TABFL Week 16 - 스타일 대결* 🏀
+God Popo가 주간 스탯에서 리드 중. 어시스트와 스틸에서 특히 강세!
