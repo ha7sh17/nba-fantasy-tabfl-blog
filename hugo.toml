@@ -18,10 +18,9 @@ theme = "PaperMod"
     Title = "🏀 TABFL Fantasy Basketball"
     Content = "Daily match predictions & reviews for our 14-team Yahoo Fantasy NBA League. Since 2020."
   
-  [params.socialIcons]
-    [[params.socialIcons]]
-      name = "yahoo"
-      url = "https://basketball.fantasysports.yahoo.com/nba/2110"
+  [[params.socialIcons]]
+    name = "yahoo"
+    url = "https://basketball.fantasysports.yahoo.com/nba/2110"
 
   [params.cover]
     image = "/images/tabfl.png"
