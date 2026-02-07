@@ -1,6 +1,6 @@
 ---
 title: "🔮 [2026-02-06] Alpha_Yoonique vs 베르가_A - JJ의 날이 될까?"
-date: 2026-02-07T03:00:00+09:00
+date: 2026-02-06T03:00:00+09:00
 draft: false
 categories: ["예측"]
 tags: ["Alpha_Yoonique", "베르가_A"]
