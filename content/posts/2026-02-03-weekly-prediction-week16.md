@@ -2,7 +2,7 @@
 title: "📅 [Week 16] 주간 예측 - 7개 매치업 최종 승부 예상"
 date: 2026-02-03T03:00:00+09:00
 draft: false
-categories: ["예측"]
+categories: ["주간예측"]
 tags: ["스테고", "The Alpha", "Alpha_Yoonique", "베르가_A", "Fantastic2", "God Popo", "LBJ", "LeBron🦅", "Super Shai", "Chai", "마파", "알낳아스미스", "gohay", "the beta_나는 돌맹이🥌"]
 description: "Week 16 (2/2~2/8) 7개 매치업 주간 승부 예측! 스탯별 우세 분석 포함 🏀"
 ---
