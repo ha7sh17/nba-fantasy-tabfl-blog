@@ -1,0 +1,157 @@
+<div class="mini-calendar">
+  <div class="cal-header">
+    <button onclick="prevMonth()">◀</button>
+    <span id="cal-month-year"></span>
+    <button onclick="nextMonth()">▶</button>
+  </div>
+  <div class="cal-weekdays">
+    <span>일</span><span>월</span><span>화</span><span>수</span><span>목</span><span>금</span><span>토</span>
+  </div>
+  <div class="cal-days" id="cal-days"></div>
+</div>
+
+<style>
+.mini-calendar {
+  background: var(--entry);
+  border-radius: 8px;
+  padding: 12px;
+  margin: 16px 0;
+  max-width: 280px;
+  font-size: 13px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.cal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+.cal-header button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 12px;
+  color: var(--primary);
+  padding: 4px 8px;
+}
+.cal-header button:hover {
+  background: var(--tertiary);
+  border-radius: 4px;
+}
+.cal-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  text-align: center;
+  font-weight: 500;
+  color: var(--secondary);
+  margin-bottom: 6px;
+  font-size: 11px;
+}
+.cal-days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+}
+.cal-day {
+  text-align: center;
+  padding: 4px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.cal-day:hover {
+  background: var(--tertiary);
+}
+.cal-day.today {
+  background: var(--primary);
+  color: var(--theme);
+  font-weight: 700;
+}
+.cal-day.other-month {
+  color: var(--secondary);
+  opacity: 0.4;
+}
+.cal-day.has-post {
+  position: relative;
+}
+.cal-day.has-post::after {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 4px;
+  background: var(--primary);
+  border-radius: 50%;
+}
+</style>
+
+<script>
+let calDate = new Date();
+const postDates = [
+  {{ range .Site.RegularPages }}
+  "{{ .Date.Format "2006-01-02" }}",
+  {{ end }}
+];
+
+function renderCalendar() {
+  const year = calDate.getFullYear();
+  const month = calDate.getMonth();
+  const today = new Date();
+  
+  document.getElementById('cal-month-year').textContent = 
+    `${year}년 ${month + 1}월`;
+  
+  const firstDay = new Date(year, month, 1).getDay();
+  const lastDate = new Date(year, month + 1, 0).getDate();
+  const prevLastDate = new Date(year, month, 0).getDate();
+  
+  let html = '';
+  
+  // Previous month days
+  for (let i = firstDay - 1; i >= 0; i--) {
+    html += `<div class="cal-day other-month">${prevLastDate - i}</div>`;
+  }
+  
+  // Current month days
+  for (let d = 1; d <= lastDate; d++) {
+    const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+    const isToday = today.getFullYear() === year && 
+                    today.getMonth() === month && 
+                    today.getDate() === d;
+    const hasPost = postDates.includes(dateStr);
+    
+    let classes = 'cal-day';
+    if (isToday) classes += ' today';
+    if (hasPost) classes += ' has-post';
+    
+    html += `<div class="${classes}" onclick="goToDate('${dateStr}')">${d}</div>`;
+  }
+  
+  // Next month days
+  const remaining = 42 - (firstDay + lastDate);
+  for (let i = 1; i <= remaining && i <= 7; i++) {
+    html += `<div class="cal-day other-month">${i}</div>`;
+  }
+  
+  document.getElementById('cal-days').innerHTML = html;
+}
+
+function prevMonth() {
+  calDate.setMonth(calDate.getMonth() - 1);
+  renderCalendar();
+}
+
+function nextMonth() {
+  calDate.setMonth(calDate.getMonth() + 1);
+  renderCalendar();
+}
+
+function goToDate(dateStr) {
+  // Search for posts on this date
+  window.location.href = `/archives/?date=${dateStr}`;
+}
+
+document.addEventListener('DOMContentLoaded', renderCalendar);
+</script>
