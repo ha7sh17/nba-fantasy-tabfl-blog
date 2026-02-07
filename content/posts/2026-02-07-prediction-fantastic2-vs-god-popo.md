@@ -1,5 +1,5 @@
 ---
-title: "🔮 [예측] [Week 16] Fantastic2 vs God Popo - 1위의 위엄 vs BI의 부활"
+title: "🔮 [Week 16] Fantastic2 vs God Popo - 1위의 위엄 vs BI의 부활"
 date: 2026-02-07T03:00:00+09:00
 draft: false
 categories: ["예측"]

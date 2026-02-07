@@ -1,5 +1,5 @@
 ---
-title: "🔮 [예측] [Week 16] 스테고 vs The Alpha - 케이드 vs KD 빅매치 예측"
+title: "🔮 [Week 16] 스테고 vs The Alpha - 케이드 vs KD 빅매치 예측"
 date: 2026-02-07T03:00:00+09:00
 draft: false
 categories: ["예측"]

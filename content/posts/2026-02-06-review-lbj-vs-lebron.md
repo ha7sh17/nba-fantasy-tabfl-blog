@@ -1,5 +1,5 @@
 ---
-title: "👑 [리뷰] [Week 16] LBJ vs LeBron🦅 - 르브론 팬들의 내전"
+title: "👑 [Week 16] LBJ vs LeBron🦅 - 르브론 팬들의 내전"
 date: 2026-02-06T18:00:00+09:00
 draft: false
 categories: ["리뷰"]

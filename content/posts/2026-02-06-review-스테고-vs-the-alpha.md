@@ -1,5 +1,5 @@
 ---
-title: "🏀 [리뷰] [Week 16] 스테고 vs Alpha_Yoonique - 케이드 & 스코티 듀오 폭발"
+title: "🏀 [Week 16] 스테고 vs Alpha_Yoonique - 케이드 & 스코티 듀오 폭발"
 date: 2026-02-06T18:00:00+09:00
 draft: false
 categories: ["리뷰"]
