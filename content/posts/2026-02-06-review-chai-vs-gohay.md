@@ -1,5 +1,5 @@
 ---
-title: "🔥 [Week 16] Chai vs gohay - 128점 핵폭탄 투하"
+title: "🔥 [2026-02-05] Chai vs gohay - 128점 핵폭탄 투하"
 date: 2026-02-06T18:00:00+09:00
 draft: false
 categories: ["리뷰"]

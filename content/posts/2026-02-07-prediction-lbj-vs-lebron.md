@@ -1,5 +1,5 @@
 ---
-title: "🔮 [Week 16] LBJ vs LeBron🦅 - 르브론 팬들의 예언"
+title: "🔮 [2026-02-06] LBJ vs LeBron🦅 - 르브론 팬들의 예언"
 date: 2026-02-07T03:00:00+09:00
 draft: false
 categories: ["예측"]

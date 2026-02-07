@@ -1,5 +1,5 @@
 ---
-title: "🐝 [Week 16] Super Shai vs 마파 - 샬롯 vs 피닉스 3점 대전"
+title: "🐝 [2026-02-05] Super Shai vs 마파 - 샬롯 vs 피닉스 3점 대전"
 date: 2026-02-06T18:00:00+09:00
 draft: false
 categories: ["리뷰"]

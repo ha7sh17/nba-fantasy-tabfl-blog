@@ -1,5 +1,5 @@
 ---
-title: "⚔️ [Week 16] The Alpha vs the beta - AR-15 폭발 vs 폭스 사냥"
+title: "⚔️ [2026-02-05] The Alpha vs the beta - AR-15 폭발 vs 폭스 사냥"
 date: 2026-02-06T18:00:00+09:00
 draft: false
 categories: ["리뷰"]

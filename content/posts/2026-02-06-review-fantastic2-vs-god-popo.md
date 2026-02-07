@@ -1,5 +1,5 @@
 ---
-title: "🔥 [Week 16] Fantastic2 vs God Popo - BI 33점 폭발 vs 더블 더블더블!"
+title: "🔥 [2026-02-05] Fantastic2 vs God Popo - BI 33점 폭발 vs 더블 더블더블!"
 date: 2026-02-06T18:00:00+09:00
 draft: false
 categories: ["리뷰"]
