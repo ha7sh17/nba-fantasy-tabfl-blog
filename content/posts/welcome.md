@@ -1,27 +1,47 @@
 ---
-title: "Welcome to TABFL Daily"
+title: "TABFL 데일리 블로그에 오신 것을 환영합니다"
 date: 2026-02-07
 draft: false
 tags: ["announcement"]
-description: "Welcome to TABFL - Your daily source for NBA Fantasy predictions and reviews"
+description: "TABFL - Yahoo NBA 판타지 리그 14팀의 매일 경기 예측과 리뷰 블로그입니다"
 cover:
   image: "/images/tabfl.png"
   alt: "TABFL Logo"
   relative: false
 ---
 
-## 🏀 Welcome to TABFL Daily!
+## 🏀 TABFL 데일리에 오신 것을 환영합니다!
 
-This blog provides daily predictions and reviews for our 14-team Yahoo NBA Fantasy League.
+이 블로그는 TABFL Yahoo NBA 판타지 리그 14팀의 매일 경기 예측과 리뷰를 제공합니다.
 
-### What to Expect
+### 📋 참가팀 (2025-26 시즌 순위)
 
-- **🔮 Morning Predictions (3 AM KST)** - Daily match predictions for all 7 matchups
-- **📊 Evening Reviews (6 PM KST)** - Post-game analysis and results
-- **📅 Weekly Summaries** - Full week recaps every Monday
+1. **God Popo** - 131-88-6 (.596)
+2. **The Alpha** - 126-91-8 (.578)
+3. **the beta_나는 돌맹이🥌** - 127-95-3 (.571)
+4. **스테고** - 122-98-5 (.553)
+5. **베르가_A** - 117-97-11 (.544)
+6. **LBJ** - 113-108-4 (.511)
+7. **Alpha_Yoonique** - 110-111-4 (.498)
+8. **Chai** - 109-112-4 (.493)
+9. **gohay** - 106-114-5 (.482)
+10. **Super Shai** - 103-117-5 (.469)
+11. **LeBron🦅** - 101-118-6 (.462)
+12. **마파** - 94-123-8 (.436)
+13. **Fantastic2** - 90-125-10 (.422)
+14. **알낳아스미스** - 84-136-5 (.384)
 
-### About TABFL
+### 📅 업데이트 일정
 
-TABFL has been running since 2020, featuring 14 competitive teams battling it out each week.
+- **🔮 새벽 3시 (KST)** - 오늘 경기 예측 (7경기)
+- **📊 오후 6시 (KST)** - 오늘 경기 리뷰 (7경기)
+- **📅 월요일 오후 6시** - 주간 총 리뷰
+- **📅 화요일 새벽 3시** - 주간 예측
 
-Stay tuned for daily updates!
+### 🏷️ 태그로 팀별 글 찾기
+
+각 포스트는 해당 경기의 두 팀 이름으로 태그되어 있습니다. 자기 팀 태그를 클릭하면 관련 글만 모아볼 수 있어요!
+
+---
+
+*TABFL - Since 2020* 🏀
