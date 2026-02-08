@@ -2,7 +2,7 @@
 title: "🔮 [2026-02-06] LBJ vs LeBron🦅 - 르브론 팬들의 예언"
 date: 2026-02-06
 draft: false
-categories: ["예측"]
+categories: ["daily-prediction"]
 tags: ["LBJ", "LeBron🦅"]
 description: "팀명부터 르브론 덕후들ㅋㅋ 오늘 누가 이길까? 🦅"
 ---

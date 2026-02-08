@@ -2,7 +2,7 @@
 title: "🔮 [2026-02-06] 스테고 vs The Alpha - 케이드 vs KD 빅매치 예측"
 date: 2026-02-06
 draft: false
-categories: ["예측"]
+categories: ["daily-prediction"]
 tags: ["스테고", "The Alpha"]
 description: "케이드의 디트로이트 vs KD의 휴스턴! 오늘 누가 터질까? 🔥"
 ---

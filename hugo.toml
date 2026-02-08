@@ -29,7 +29,7 @@ cleanDestinationDir = true
   [[menu.main]]
     identifier = "predictions"
     name = "🔮 예측"
-    url = "/categories/예측/"
+    url = "/categories/daily-prediction/"
     weight = 10
   [[menu.main]]
     identifier = "reviews"

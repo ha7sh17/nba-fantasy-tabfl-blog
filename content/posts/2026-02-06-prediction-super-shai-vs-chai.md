@@ -2,7 +2,7 @@
 title: "🔮 [2026-02-06] Super Shai vs Chai - 올랜도 트리오 터지나?"
 date: 2026-02-06
 draft: false
-categories: ["예측"]
+categories: ["daily-prediction"]
 tags: ["Super Shai", "Chai"]
 description: "Chai의 올랜도 군단 vs Super Shai의 샬롯 군단! 🏀"
 ---
