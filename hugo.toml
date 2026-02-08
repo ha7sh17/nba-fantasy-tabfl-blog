@@ -8,6 +8,7 @@ cleanDestinationDir = true
   description = "TABFL Yahoo NBA 판타지 리그 14팀의 매일 경기 예측과 리뷰"
   author = "TABFL"
   images = ["/images/tabfl.png"]
+  mainSections = ["posts"]
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
