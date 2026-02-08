@@ -34,7 +34,7 @@ cleanDestinationDir = true
   [[menu.main]]
     identifier = "reviews"
     name = "📊 리뷰"
-    url = "/categories/리뷰/"
+    url = "/categories/daily-review/"
     weight = 20
   [[menu.main]]
     identifier = "weekly-predictions"
