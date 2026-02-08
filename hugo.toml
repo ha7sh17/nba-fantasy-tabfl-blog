@@ -2,6 +2,7 @@ baseURL = "https://nba-fantasy-tabfl-blog-94s.pages.dev/"
 languageCode = "ko-KR"
 title = "TABFL - NBA 판타지 리그 데일리"
 theme = "PaperMod"
+cleanDestinationDir = true
 
 [params]
   description = "TABFL Yahoo NBA 판타지 리그 14팀의 매일 경기 예측과 리뷰"
