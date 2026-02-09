@@ -2,7 +2,7 @@
 title: "TABFL 데일리 블로그에 오신 것을 환영합니다"
 date: 2026-02-07
 draft: false
-tags: ["announcement"]
+tags: []
 description: "TABFL - Yahoo NBA 판타지 리그 14팀의 매일 경기 예측과 리뷰 블로그입니다"
 cover:
   image: "/images/tabfl.png"

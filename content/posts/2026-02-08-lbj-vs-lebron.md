@@ -3,7 +3,7 @@ title: "📊 [2/8] LBJ vs LeBron🦅 데일리 리뷰"
 date: 2026-02-08
 draft: false
 categories: ["daily-review"]
-tags: ["LBJ", "LeBron🦅", "데일리리뷰"]
+tags: ["LBJ", "LeBron🦅"]
 description: "Jalen Brunson 31점 폭발! LBJ가 오늘만큼은 진짜 르브론이었다"
 ---
 

@@ -2,7 +2,7 @@
 title: "📊 [2/8] Alpha_Yoonique vs 베르기_A 데일리 리뷰"
 date: 2026-02-08
 categories: ["daily-review"]
-tags: ["week16", "Alpha_Yoonique", "베르기_A"]
+tags: ["Alpha_Yoonique", "베르가_A"]
 ---
 
 ## 🏀 2월 8일 (일) 매치업 결과

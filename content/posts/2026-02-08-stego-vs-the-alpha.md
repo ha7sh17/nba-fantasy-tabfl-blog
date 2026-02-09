@@ -2,7 +2,7 @@
 title: "📊 [2/8] 스테고 vs The Alpha 데일리 리뷰"
 date: 2026-02-08
 categories: ["daily-review"]
-tags: ["week16", "스테고", "The Alpha"]
+tags: ["스테고", "The Alpha"]
 ---
 
 ## 🏀 2월 8일 (일) 매치업 결과

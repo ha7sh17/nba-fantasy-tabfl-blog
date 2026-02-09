@@ -3,7 +3,7 @@ title: "📊 [2/8] Fantastic2 vs God Popo 데일리 리뷰"
 date: 2026-02-08
 draft: false
 categories: ["daily-review"]
-tags: ["Fantastic2", "God Popo", "데일리리뷰"]
+tags: ["Fantastic2", "God Popo"]
 description: "Week 16 마지막 날! Fantastic2가 60점 vs 19점으로 일일 압승했지만..."
 ---
 

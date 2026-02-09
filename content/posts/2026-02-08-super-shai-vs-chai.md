@@ -3,7 +3,7 @@ title: "📊 [2/8] Super Shai vs Chai 데일리 리뷰"
 date: 2026-02-08
 draft: false
 categories: ["daily-review"]
-tags: ["Super Shai", "Chai", "데일리리뷰"]
+tags: ["Super Shai", "Chai"]
 description: "Anthony Edwards 23점! Super Shai가 일일전은 이겼지만..."
 ---
 

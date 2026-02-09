@@ -3,7 +3,7 @@ title: "📊 [2/8] gohay vs the beta 데일리 리뷰"
 date: 2026-02-08
 draft: false
 categories: ["daily-review"]
-tags: ["gohay", "the beta", "데일리리뷰"]
+tags: ["gohay", "the beta_나는 돌맹이🥌"]
 description: "Immanuel Quickley 어시스트 머신! gohay가 일일전은 이겼지만..."
 ---
 
