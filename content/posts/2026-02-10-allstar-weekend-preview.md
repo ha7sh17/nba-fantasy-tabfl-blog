@@ -125,10 +125,10 @@ Team World가 라운드로빈에서 압도할 것 같아. 요키치-웸비-야�
 | **Tyrese Maxey** | 필라델피아 | **God Popo** |
 | **Jamal Murray** | 덴버 | **The Alpha** |
 | **Devin Booker** | 피닉스 | **Fantastic2** |
-| **Norman Powell** | 마이애미 | ??? |
-| Damian Lillard | 포틀랜드 | ??? |
-| Kon Knueppel | 샬럿 | ??? |
-| Bobby Portis Jr. | 밀워키 | ??? |
+| **Norman Powell** | 마이애미 | - |
+| Damian Lillard | 포틀랜드 | - |
+| Kon Knueppel | 샬럿 | **Chai** |
+| Bobby Portis Jr. | 밀워키 | - |
 
 **우리 리그 선수 4명 출전!** 🔥
 
