@@ -5,49 +5,61 @@ categories: ["daily-prediction"]
 tags: ["God Popo", "LeBron🦅"]
 ---
 
-## ![God Popo](/images/teams/god-popo.jpg) God Popo vs ![LeBron🦅](/images/teams/lebron.jpg) LeBron🦅
+## ![God Popo](/images/teams/god-popo.png) God Popo vs ![LeBron🦅](/images/teams/lebron-eagle.png) LeBron🦅
 
 ### 📊 현재 상황
 | 팀 | 시즌 성적 | 순위 | Week 17 현재 |
 |---|---|---|---|
-| **God Popo** | 139-95-6 | **1위** | **9승** |
-| **LeBron🦅** | 113-121-6 | 10위 | 5승 |
+| **God Popo** | 130-104-6 | 5위 | 진행중 |
+| **LeBron🦅** | 116-119-5 | 9위 | 진행중 |
+
+### 🏀 오늘 경기 매치업 (2/10)
+
+**오늘 NBA 경기:**
+- NYK vs IND (7:30pm)
+- HOU vs LAC (8:00pm)
+- PHX vs DAL (9:00pm)
+- SAS @ LAL (10:30pm)
+
+| 팀 | 오늘 경기 선수 | 명수 |
+|---|---|---|
+| **God Popo** | Amen Thompson (HOU), Josh Hart (NYK), LeBron James (LAL) ⚠️O | **3명** |
+| **LeBron🦅** | Keldon Johnson (SAS), Alperen Sengun (HOU) | 2명 |
+
+**👑 오늘 매치업 분석:**
+
+God Popo가 **3:2** 로 우위! 근데 변수가 있다...
+
+**르브론 제임스**가 O(Questionable) 마크! 출전 여부가 불확실하다. 만약 르브론이 뛰면 God Popo 완전 유리, 안 뛰면 **2:2** 동률!
+
+**God Popo 선수들:**
+- **LeBron James** vs SAS (O) - 출전하면 무조건 폭발! 근데 불확실
+- **Amen Thompson** vs LAC - 휴스턴의 떠오르는 별! 스틸+리바+어시 기대
+- **Josh Hart** vs IND - 닉스의 만능 전사! 리바운드 머신
+
+**LeBron🦅 선수들:**
+- **Alperen Sengun** vs LAC - 올스타급 센터! 더블더블 기본
+- **Keldon Johnson** @ LAL - 스퍼스 주전 윙맨
 
 ### 🔥 분석
 
-**1위 vs 10위! God Popo의 위엄!** 👑
+**르브론의 출전 여부가 승부의 키!** 🔑
 
-리그 1위 God Popo가 예상대로 9-5로 앞서고 있다. 시즌 성적 139-95-6은 리그에서 압도적인 1위!
+God Popo는 르브론이 뛰면 화력에서 압도할 수 있다. 40세의 왕은 아직도 트리플더블 가능한 존재!
 
-지난 주도 8-7로 승리하며 꾸준히 좋은 성적을 이어가고 있다. 이게 바로 진정한 강팀의 모습이다 ㅋㅋ
+반면 LeBron🦅(팀명이 웃기네 ㅋㅋ)는 **알페렌 센군**에게 모든 걸 건다. 센군이 오늘 LAC 상대로 터지면 승부가 달라질 수 있다!
 
-### 🦅 LeBron🦅의 반격?
-
-LeBron🦅가 의외로 선전하고 있다!
-
-지난 주 **12-3 대승**을 거뒀던 LeBron🦅. 무브 39회(리그 최다!)로 매우 적극적인 로스터 관리를 하고 있다.
-
-10위지만 최근 폼은 좋은 편. 39번의 무브는 그만큼 **팀 최적화에 공을 들이고 있다**는 증거!
-
-### 🎯 관전 포인트
-
-God Popo vs LeBron🦅 = **안정 vs 공격**
-
-- God Popo: 무브 5회 (리그 최소 수준)... 드래프트부터 잘 짠 팀!
-- LeBron🦅: 무브 39회 (리그 최다)... 끊임없는 로스터 개선!
-
-서로 다른 운영 스타일의 대결이 흥미롭다 👀
+**Amen Thompson의 성장:**
+요즘 아멘 톰슨 진짜 좋다. 스틸, 리바운드, 어시스트까지 다 하는 만능 선수로 성장 중! 오늘 LAC 상대로 날아다닐 듯!
 
 ### 📈 예측
 
-God Popo가 시즌 내내 1위를 유지해온 데는 이유가 있다.
+르브론 출전 가정하면 God Popo가 유리. 하지만 센군도 무시 못 함!
 
-LeBron🦅가 지난 주처럼 대승을 거둘 수도 있지만, 2주간의 긴 싸움에서는 **1위의 저력**이 빛을 발할 것!
-
-> **예측: God Popo 9-5 승리** 🎯
+> **예측: God Popo 8-6 승리** 🎯
 > 
-> 1위의 안정감이 결국 승리를 가져올 것. LeBron🦅도 선전하겠지만, 격차를 좁히기엔 God Popo가 너무 강하다!
+> 르브론이 뛰면 확실히 God Popo! 안 뛰어도 Amen+Hart 콤보가 견고하다.
 
 ---
 
-*리그 1위의 위엄! God Popo는 과연 시즌 내내 왕좌를 지킬 수 있을까?* 👑
+*르브론 이름을 걸고 싸우는 두 팀! 진짜 왕은 누구?* 👑
