@@ -52,6 +52,11 @@ cleanDestinationDir = true
     url = "/tags/"
     weight = 50
   [[menu.main]]
+    identifier = "column"
+    name = "✍️ 컬럼"
+    url = "/categories/column/"
+    weight = 55
+  [[menu.main]]
     identifier = "archive"
     name = "📚 아카이브"
     url = "/archives/"
