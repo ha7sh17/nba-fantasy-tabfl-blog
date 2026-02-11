@@ -1,7 +1,7 @@
 ---
 title: "🌟 2026 NBA 올스타 위켄드 완벽 예측! 우리 리그 선수들 총출동"
 date: 2026-02-10
-categories: ["번외편"]
+categories: ["column"]
 tags: ["스테고", "The Alpha", "Alpha_Yoonique", "베르가_A", "Fantastic2", "God Popo", "LBJ", "LeBron🦅", "Super Shai", "Chai", "마파", "알낳아스미스", "gohay", "the beta_나는 돌맹이🥌"]
 draft: false
 ---
