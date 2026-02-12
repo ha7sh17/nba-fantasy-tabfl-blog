@@ -211,9 +211,9 @@ SGA + Mikal Bridges + JJJ 조합은 리그 최강급이다. SGA가 복귀만 하
 
 받은 선수만 15명 이상. 트레이드 앱을 삭제해야 할 수준.
 
-**신인 영입왕: Chai** 🍵
+**신인 트레이드왕: Chai** 🍵
 
-Cooper Flagg 영입으로 미래를 샀다.
+Cooper Flagg + Paolo Banchero 트레이드로 미래를 샀다.
 
 **운 없는 왕: 베르가_A** 😢
 
