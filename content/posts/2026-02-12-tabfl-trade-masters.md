@@ -82,7 +82,7 @@ LeBron🦅은 **양으로 승부**한다. 받은 선수만 15명 이상.
 |------|----------|----------|
 | 11/13 | DiVincenzo | 드롭함 ㅋㅋ |
 | 12/11 | **Joel Embiid** | 부상 중 |
-| 12/18 | **Cooper Flagg, Banchero** | 🔥 신인 듀오 |
+| 12/18 | **Cooper Flagg, Banchero** | 🔥 플래그 신인왕 + 반케로 에이스 |
 | 12/29 | Nikola Vučević | 보냄 |
 | 2/4 | Jalen Suggs, Hartenstein | 현역 |
 | 2/8 | Michael Porter Jr. | 부상 중 |
@@ -93,7 +93,7 @@ Chai의 특징: **센터를 사랑한다**
 
 Embiid, Vučević, Hartenstein, Banchero... 전부 빅맨이다. 근데 문제는 Embiid가 거의 안 뛰고 있다는 거.
 
-반면 **쿠퍼 플래그 + 반케로** 영입은 신의 한 수였다. 특히 플래그는 지금 신인왕 레이스 1위.
+반면 **쿠퍼 플래그 + 반케로** 영입은 신의 한 수였다. 플래그는 올해 신인왕 레이스 1위, 반케로는 3년차 에이스.
 
 DiVincenzo를 트레이드로 받았다가 결국 드롭한 건 웃기다. (이 친구 특집 기사 참고)
 
