@@ -3,7 +3,7 @@ title: "🏆 TABFL 트레이드 마스터즈: 누가 장사를 제일 잘했나?
 date: 2026-02-12T09:40:00+09:00
 draft: false
 categories: ["column"]
-summary: "올시즌 40건 이상의 트레이드! 누가 이득을 봤고, 누가 호구가 됐나? TABFL 트레이드 대분석."
+summary: "올시즌 40건 이상의 트레이드! 누가 이득을 봤고, 누가 손해를 봤나? 양방향 트레이드 완전 분석."
 cover:
   image: ""
   alt: "TABFL Trade Analysis"
@@ -14,222 +14,271 @@ cover:
 
 TABFL 2025-26 시즌은 **트레이드 광풍**의 시즌이었다.
 
-40건 이상의 트레이드, 거부(Vetoed)된 트레이드까지 포함하면 더 많다. 어떤 팀은 선수를 모으고, 어떤 팀은 퍼주고, 어떤 팀은... 뭘 하는지 모르겠다.
-
-자, 이제 누가 트레이드 장사를 잘했는지 분석해보자.
+9월 프리시즌부터 2월까지, 40건 이상의 트레이드가 성사됐다. 이번 분석에서는 **양방향**으로 누가 뭘 주고 뭘 받았는지 완벽하게 정리한다.
 
 ---
 
-## 📊 트레이드 활동량 순위
+## 📊 전체 트레이드 기록 (시간순)
 
-| 순위 | 팀 | 받은 선수 수 | 활동 레벨 |
-|------|-----|------------|----------|
-| 🥇 | **LeBron🦅** | **15명+** | 트레이드 중독 |
-| 🥈 | Chai | 8명 | 적극적 |
-| 🥉 | 베르가_A | 7명 | 꾸준함 |
-| 4 | 알낳아스미스 | 6명 | 활발 |
-| 5 | gohay | 3명 | 보통 |
-| 6 | 스테고 | 2명 | 조용 |
-| 7 | 나머지 | 1-2명 | 관망 |
+### 프리시즌 ~ 10월
 
-**LeBron🦅**이 압도적이다. 이 형은 트레이드가 취미인가?
+| 날짜 | 트레이드 내용 |
+|------|-------------|
+| 9/20 | **God Popo ↔ Super Shai**: God Popo가 Mark Williams 받음 / Super Shai가 Andrew Nembhard 받음 |
+| 9/26 | **Fantastic2 ↔ Alpha_Yoonique**: Fantastic2가 Walker Kessler 받음 / Alpha_Yoonique가 Zach LaVine 받음 |
+| 9/28 | **the beta ↔ Alpha_Yoonique**: the beta가 Christian Braun 받음 / Alpha_Yoonique가 Jrue Holiday 받음 |
+| 10/19 | **Chai ↔ the beta**: Chai가 KAT + D'Angelo Russell 받음 / the beta가 De'Aaron Fox + Desmond Bane 받음 |
+| 10/28 | **Chai ↔ God Popo**: Chai가 Kel'el Ware 받음 / God Popo가 Joel Embiid 받음 |
 
----
+### 11월
 
-## 🦅 1위: LeBron🦅 - 월스트리트의 늑대
+| 날짜 | 트레이드 내용 |
+|------|-------------|
+| 11/3 | **베르가_A ↔ Chai**: 베르가_A가 Deandre Ayton + Matas Buzelis 받음 / Chai가 **Kon Knueppel** + Ivica Zubac 받음 |
+| 11/12 | **gohay ↔ ?**: gohay가 Immanuel Quickley 받음 |
+| 11/13 | **베르가_A ↔ Chai**: 베르가_A가 P.J. Washington 받음 / Chai가 DiVincenzo 받음 |
+| 11/18 | **스테고 ↔ gohay**: 스테고가 Myles Turner 받음 / gohay가 John Collins 받음 |
+| 11/20 | **알낳아스미스 ↔ 베르가_A**: 알낳아스미스가 RJ Barrett 받음 / 베르가_A가 Darius Garland 받음 |
+| 11/23 | **LeBron🦅 ↔ LBJ**: LeBron🦅가 SGA + JJJ 받음 / LBJ가 Bam Adebayo + Luka Dončić 받음 |
+| 11/25 | **알낳아스미스 ↔ LeBron🦅**: 알낳아스미스가 Buzelis + Coward 받음 / LeBron🦅가 Cooper Flagg + Wiggins 받음 |
+| 11/26 | ❌ **VETOED**: 알낳아스미스 ↔ Chai (KAT+Zubac ↔ Jokic) |
 
-### 받은 선수들 (시간순)
+### 12월
 
-| 날짜 | 받은 선수 | 결과 |
-|------|----------|------|
-| 11/8 | Nic Claxton, IQ | Claxton 부상, IQ 트레이드 |
-| 11/12 | Cedric Coward | 루키 로또 |
-| 11/23 | **SGA, JJJ** | 🔥 잭팟 |
-| 11/25 | Cooper Flagg, Wiggins | Flagg 대박, Wiggins 부상 |
-| 12/8 | Ausar Thompson, Banchero | 둘 다 굿 |
-| 12/10 | RJ Barrett | 꾸준함 |
-| 12/18 | Reed Sheppard, **KAT** | KAT 머신 |
-| 1/1 | **Ant Edwards**, Clowney | Ant 트레이드로 보냄 😱 |
-| 1/9 | Kevin Porter Jr. | 음... |
-| 1/10 | **Jalen Williams**, Grimes | J-Will 안정적 |
-| 1/14 | Mikal Bridges | 꾸준 |
-| 1/28 | RJ Barrett, Queta, **요키치** | 🃏 조커 영입! |
-| 2/3 | VJ Edgecombe | 신인 로또 |
+| 날짜 | 트레이드 내용 |
+|------|-------------|
+| 12/8 | **Fantastic2 ↔ LeBron🦅**: Fantastic2가 Derrick White + Wiggins 받음 / LeBron🦅가 Ausar Thompson + Banchero 받음 |
+| 12/10 | **알낳아스미스 ↔ LeBron🦅**: 알낳아스미스가 Jaren Jackson Jr. 받음 / LeBron🦅가 RJ Barrett 받음 |
+| 12/11 | **Chai ↔ God Popo**: Chai가 Joel Embiid 받음 / God Popo가 Kel'el Ware 받음 |
+| 12/18 | **Chai ↔ LeBron🦅**: Chai가 Cooper Flagg + Banchero 받음 / LeBron🦅가 Reed Sheppard + KAT 받음 |
+| 12/18 | **Fantastic2 ↔ Alpha_Yoonique**: Fantastic2가 Jay Huff 받음 / Alpha_Yoonique가 Matas Buzelis 받음 |
+| 12/29 | **Chai ↔ the beta**: Chai가 Nikola Vučević 받음 / the beta가 Ivica Zubac 받음 |
 
-### 분석
+### 1월
 
-LeBron🦅은 **양으로 승부**한다. 받은 선수만 15명 이상.
+| 날짜 | 트레이드 내용 |
+|------|-------------|
+| 1/1 | **마파 ↔ LeBron🦅**: 마파가 Reed Sheppard + KAT 받음 / LeBron🦅가 Ant Edwards + Clowney 받음 |
+| 1/9 | **gohay ↔ LeBron🦅**: gohay가 Tyler Herro 받음 / LeBron🦅가 Kevin Porter Jr. 받음 |
+| 1/10 | **알낳아스미스 ↔ LeBron🦅**: 알낳아스미스가 Tari Eason + RJ Barrett 받음 / LeBron🦅가 Jalen Williams + Grimes 받음 |
+| 1/14 | **LBJ ↔ LeBron🦅**: LBJ가 Jalen Williams 받음 / LeBron🦅가 Mikal Bridges 받음 |
+| 1/21 | **Super Shai ↔ LeBron🦅**: Super Shai가 Anthony Edwards 받음 / LeBron🦅가 **Alperen Sengun** 받음 |
+| 1/28 | **베르가_A ↔ Alpha_Yoonique**: 베르가_A가 Jamal Shead + Kawhi 받음 / Alpha_Yoonique가 James Harden + Max Christie 받음 |
+| 1/28 | **알낳아스미스 ↔ LeBron🦅**: 알낳아스미스가 Nic Claxton + Mikal Bridges + SGA 받음 / LeBron🦅가 RJ Barrett + Queta + **Nikola Jokić** 받음 |
 
-핵심 영입:
-- **니콜라 요키치** - 리그 1위 센터
-- **SGA** - (부상 전) 리그 탑5 가드
-- **칼 앤서니 타운스** - 득점력 괴물
-- **쿠퍼 플래그** - 신인왕 후보
+### 2월
 
-하지만 문제도 있다:
-- **Ant Edwards를 받았다가 바로 Super Shai에게 보냄** (왜?)
-- **Kevin Porter Jr.** 영입은... 음...
-
-**트레이드 성적: A-** (양이 많아서 평균은 나옴)
-
----
-
-## 🍵 2위: Chai - 센터 수집가
-
-### 받은 선수들
-
-| 날짜 | 받은 선수 | 현재 상태 |
-|------|----------|----------|
-| 11/13 | DiVincenzo | 드롭함 ㅋㅋ |
-| 12/11 | **Joel Embiid** | 부상 중 |
-| 12/18 | **Cooper Flagg, Banchero** | 🔥 플래그 신인왕 + 반케로 에이스 |
-| 12/29 | Nikola Vučević | 보냄 |
-| 2/4 | Jalen Suggs, Hartenstein | 현역 |
-| 2/8 | Michael Porter Jr. | 부상 중 |
-
-### 분석
-
-Chai의 특징: **센터를 사랑한다**
-
-Embiid, Vučević, Hartenstein, Banchero... 전부 빅맨이다. 근데 문제는 Embiid가 거의 안 뛰고 있다는 거.
-
-반면 **쿠퍼 플래그 + 반케로** 영입은 신의 한 수였다. 플래그는 올해 신인왕 레이스 1위, 반케로는 3년차 에이스.
-
-DiVincenzo를 트레이드로 받았다가 결국 드롭한 건 웃기다. (이 친구 특집 기사 참고)
-
-**트레이드 성적: B+** (플래그 하나로 먹고 삼)
+| 날짜 | 트레이드 내용 |
+|------|-------------|
+| 2/2 | ❌ **VETOED**: 베르가_A ↔ Chai (Vučević ↔ Jalen Suggs) |
+| 2/3 | **스테고 ↔ LeBron🦅**: 스테고가 RJ Barrett 받음 / LeBron🦅가 VJ Edgecombe 받음 |
+| 2/4 | **베르가_A ↔ Chai**: 베르가_A가 Kris Dunn + Vučević 받음 / Chai가 Jalen Suggs + Hartenstein 받음 |
+| 2/8 | **Chai ↔ The Alpha**: Chai가 Michael Porter Jr. 받음 / The Alpha가 Isaiah Hartenstein 받음 |
 
 ---
 
-## 🅰️ 3위: 베르가_A - 꾸준한 중간 상인
+## 🦅 팀별 트레이드 분석
 
-### 받은 선수들
+### 1️⃣ LeBron🦅 - 거래의 제왕
 
-| 날짜 | 받은 선수 | 결과 |
-|------|----------|------|
-| 11/8 | RJ Barrett, DiVincenzo | Barrett 보냄, DiVincenzo 드롭 |
-| 11/13 | P.J. Washington | 웨이버 드롭 |
-| 11/20 | **Darius Garland** | 부상 중 |
-| 1/28 | Jamal Shead, **Kawhi Leonard** | Kawhi 유리몸 |
-| 2/4 | Kris Dunn, Nikola Vučević | Vučević 굿 |
+**트레이드 참여: 11회 (리그 최다)**
 
-### 분석
+| 보낸 선수 | 받은 선수 |
+|----------|----------|
+| Bam Adebayo + Luka Dončić | SGA + JJJ |
+| Cooper Flagg + Wiggins | Buzelis + Coward |
+| Ausar Thompson + Banchero | Derrick White + Wiggins |
+| RJ Barrett | Jaren Jackson Jr. |
+| Reed Sheppard + KAT | Cooper Flagg + Banchero |
+| Ant Edwards + Clowney | Reed Sheppard + KAT |
+| Kevin Porter Jr. | Tyler Herro |
+| Jalen Williams + Grimes | Tari Eason + RJ Barrett |
+| Mikal Bridges | Jalen Williams |
+| **Alperen Sengun** | Anthony Edwards |
+| RJ Barrett + Queta + **Nikola Jokić** | Nic Claxton + Mikal Bridges + SGA |
+| VJ Edgecombe | RJ Barrett |
 
-베르가_A는 **운이 없다**.
+**핵심 영입**: Nikola Jokić, Alperen Sengun, Jalen Williams  
+**핵심 방출**: Anthony Edwards → Sengun, SGA+Bridges+Claxton → Jokić
 
-- Garland: 부상
-- Kawhi: 거의 안 뜀
-- DiVincenzo: 3번이나 픽업하고 3번 다 버림
-
-Vučević 영입은 좋았지만, 전체적으로 트레이드 운이 안 따른다.
-
-**트레이드 성적: C+** (의도는 좋았는데...)
-
----
-
-## 👑 4위: 알낳아스미스 - 숨은 강자
-
-### 받은 선수들
-
-| 날짜 | 받은 선수 | 결과 |
-|------|----------|------|
-| 11/20 | RJ Barrett | 보냄 |
-| 11/25 | Matas Buzelis, Coward | Buzelis 보냄 |
-| 12/10 | **Jaren Jackson Jr.** | 🔥 |
-| 1/10 | Tari Eason, RJ Barrett | Eason 좋음 |
-| 1/28 | Nic Claxton, **Mikal Bridges**, **SGA** | 💰 |
-
-### 분석
-
-알낳아스미스의 1월 28일 트레이드가 **역대급**이다.
-
-Nic Claxton + Mikal Bridges + **샤이 길저스-알렉산더** 3명을 한 번에 받았다. SGA가 부상 중이긴 하지만, 복귀하면...?
-
-JJJ도 꾸준히 블록 머신으로 활약 중.
-
-**트레이드 성적: A** (SGA 복귀만 하면 우승 후보)
+**평가: A-**
+- Jokić 영입은 대박
+- Ant → Sengun 트레이드는 합리적 (Sengun도 엘리트 센터)
+- 거래량이 많아 실험적 트레이드도 있었음
 
 ---
 
-## 📉 특별상: 가장 아쉬운 트레이드
+### 2️⃣ Chai - 빅맨 콜렉터
 
-### 🏆 LeBron🦅의 Ant Edwards 트레이드
+**트레이드 참여: 9회**
 
-**1월 1일**: LeBron🦅가 Anthony Edwards + Noah Clowney를 받음
+| 보낸 선수 | 받은 선수 |
+|----------|----------|
+| De'Aaron Fox + Desmond Bane | KAT + D'Angelo Russell |
+| Joel Embiid | Kel'el Ware |
+| Deandre Ayton + Matas Buzelis | **Kon Knueppel** + Ivica Zubac |
+| DiVincenzo | P.J. Washington |
+| Reed Sheppard + KAT | **Cooper Flagg + Paolo Banchero** |
+| Ivica Zubac | Nikola Vučević |
+| Kel'el Ware | Joel Embiid |
+| Jalen Suggs + Hartenstein | Kris Dunn + Vučević |
+| Isaiah Hartenstein | Michael Porter Jr. |
 
-**1월 21일**: LeBron🦅가 Anthony Edwards를 Super Shai에게 보냄
+**핵심 영입**: Cooper Flagg (신인왕 후보), Paolo Banchero, Kon Knueppel  
+**핵심 방출**: De'Aaron Fox + Bane (→ the beta), Reed Sheppard + KAT (→ LeBron🦅)
 
-20일 동안 Ant를 가지고 있다가 보냈다. **왜?**
-
-Ant Edwards는 현재 리그 탑10 선수인데... Super Shai가 뭘 줬길래?
-
-(트레이드 상대 선수 정보 없음 - 아마 뭔가 있었겠지... 아마...)
-
----
-
-## 🚫 거부된 트레이드들
-
-| 날짜 | 내용 | 결과 |
-|------|------|------|
-| 11/26 | KAT + Zubac → 알낳아스미스 / 요키치 → Chai | **VETOED** |
-| 2/2 | Vučević → 베르가_A / Jalen Suggs → Chai | **VETOED** |
-
-11월 26일 트레이드가 통과됐으면 **역대급 언밸런스**였다. 요키치 + KAT + Zubac이 두 팀에 갔으면 리그가 망했을 듯.
-
-리그원들이 정신 차리고 거부해서 다행이다.
+**평가: A**
+- Cooper Flagg + Banchero 영입은 **올시즌 베스트 트레이드**
+- Kon Knueppel도 유망주로 좋은 픽업
+- 센터 로테이션 많았지만 결과적으로 좋은 자산 확보
 
 ---
 
-## 📈 팀별 트레이드 성적표
+### 3️⃣ the beta_나는 돌맹이🥌 - 숨은 강자
 
-| 팀 | 성적 | 코멘트 |
-|----|------|--------|
-| LeBron🦅 | A- | 양으로 승부, 요키치 영입이 핵심 |
-| 알낳아스미스 | A | SGA+Bridges+JJJ 라인업 무섭다 |
-| Chai | B+ | 플래그 하나로 시즌 살림 |
-| Super Shai | B+ | Ant Edwards 획득! |
-| 마파 | B | KAT+Sheppard 나쁘지 않음 |
-| gohay | B- | Quickley, Herro 꾸준 |
-| 스테고 | B- | Myles Turner 블록왕 |
-| 베르가_A | C+ | 부상 선수만 모음 |
-| Fantastic2 | C | Derrick White만 건짐 |
-| Alpha_Yoonique | C | Harden 늦게 영입 |
-| The Alpha | C- | Hartenstein 하나뿐 |
-| the beta | D+ | Zubac 하나 받음 |
-| God Popo | D | Kel'el Ware... 드롭함 |
-| LBJ | B | Luka+Bam+J-Will 좋음 |
+**트레이드 참여: 4회**
+
+| 보낸 선수 | 받은 선수 |
+|----------|----------|
+| Jrue Holiday | Christian Braun |
+| KAT + D'Angelo Russell | **De'Aaron Fox + Desmond Bane** |
+| Nikola Vučević | Ivica Zubac |
+
+**핵심 영입**: De'Aaron Fox, Desmond Bane  
+**분석**: Chai한테서 **De'Aaron Fox + Desmond Bane**을 뽑아낸 게 대박. 두 선수 모두 20+ 득점 가드/윙.
+
+**평가: A-** (이전 D+ 평가는 완전 오류였음!)
 
 ---
 
-## 🎯 결론: 누가 트레이드 왕인가?
+### 4️⃣ 알낳아스미스 - SGA 수집가
 
-**종합 1위: 알낳아스미스** 👑
+**트레이드 참여: 5회**
 
-SGA + Mikal Bridges + JJJ 조합은 리그 최강급이다. SGA가 복귀만 하면 무적.
+| 보낸 선수 | 받은 선수 |
+|----------|----------|
+| Darius Garland | RJ Barrett |
+| Cooper Flagg + Wiggins | Buzelis + Coward |
+| RJ Barrett | **Jaren Jackson Jr.** |
+| Jalen Williams + Grimes | Tari Eason + RJ Barrett |
+| Nic Claxton + Mikal Bridges + **SGA** | RJ Barrett + Queta + Jokić |
 
-**활동량 1위: LeBron🦅** 🦅
+**핵심 영입**: SGA, Mikal Bridges, Nic Claxton, JJJ  
+**핵심 방출**: Jokić (→ LeBron🦅)
 
-받은 선수만 15명 이상. 트레이드 앱을 삭제해야 할 수준.
-
-**신인 트레이드왕: Chai** 🍵
-
-Cooper Flagg + Paolo Banchero 트레이드로 미래를 샀다.
-
-**운 없는 왕: 베르가_A** 😢
-
-Garland, Kawhi, DiVincenzo... 전부 부상이거나 드롭.
+**평가: A**
+- Jokić를 줬지만 SGA + Bridges + Claxton 3명을 받음
+- JJJ도 블록 머신으로 활약 중
+- SGA 복귀 시 리그 최강 라인업 가능
 
 ---
 
-## 에필로그
+### 5️⃣ Super Shai - Ant 영입!
 
-트레이드 데드라인이 지났지만, TABFL의 거래는 멈추지 않는다.
+**트레이드 참여: 2회**
 
-다음 빅 트레이드는 누가 할까?
+| 보낸 선수 | 받은 선수 |
+|----------|----------|
+| Mark Williams | Andrew Nembhard |
+| **Alperen Sengun** | **Anthony Edwards** |
 
-그리고 LeBron🦅은 언제 트레이드 앱을 삭제할까?
+**핵심 영입**: Anthony Edwards  
+**분석**: Sengun을 주고 Ant를 받았다. 둘 다 엘리트지만 Ant의 천장이 더 높다.
 
-기대하시라.
+**평가: A-**
+
+---
+
+### 6️⃣ LBJ - 루카+밤 콤보
+
+**트레이드 참여: 3회**
+
+| 보낸 선수 | 받은 선수 |
+|----------|----------|
+| SGA + JJJ | **Bam Adebayo + Luka Dončić** |
+| Mikal Bridges | **Jalen Williams** |
+
+**핵심 영입**: Luka Dončić, Bam Adebayo, Jalen Williams  
+**분석**: 빅3 완성. Luka 부상만 회복되면 우승 후보.
+
+**평가: A**
+
+---
+
+### 7️⃣ 베르가_A - 부상 선수 수집가
+
+**트레이드 참여: 5회**
+
+| 보낸 선수 | 받은 선수 |
+|----------|----------|
+| Kon Knueppel + Zubac | Deandre Ayton + Matas Buzelis |
+| DiVincenzo | P.J. Washington |
+| RJ Barrett | **Darius Garland** |
+| James Harden + Christie | Jamal Shead + **Kawhi Leonard** |
+| Jalen Suggs + Hartenstein | Kris Dunn + **Vučević** |
+
+**핵심 영입**: Darius Garland, Kawhi Leonard, Vučević  
+**문제점**: Garland 부상, Kawhi 거의 안 뜀
+
+**평가: C+** (의도는 좋았는데 부상 운이...)
+
+---
+
+### 8️⃣ 기타 팀들
+
+| 팀 | 주요 영입 | 주요 방출 | 평가 |
+|----|----------|----------|------|
+| **마파** | Reed Sheppard, KAT | Ant Edwards, Clowney | B+ |
+| **gohay** | Tyler Herro, IQ, John Collins | Kevin Porter Jr., Myles Turner | B |
+| **스테고** | Myles Turner, RJ Barrett | John Collins, VJ Edgecombe | B |
+| **Alpha_Yoonique** | Zach LaVine, Jrue Holiday, Harden, Buzelis | Walker Kessler, Braun, Shead+Kawhi | B |
+| **Fantastic2** | Walker Kessler, Derrick White, Wiggins | Zach LaVine, Ausar+Banchero | B- |
+| **God Popo** | Mark Williams, Joel Embiid, Kel'el Ware | Andrew Nembhard, Kel'el Ware, Embiid | C |
+| **The Alpha** | Isaiah Hartenstein | Michael Porter Jr. | C |
+
+---
+
+## 🏆 최종 트레이드 성적표
+
+| 순위 | 팀 | 평가 | 한줄평 |
+|------|-----|------|--------|
+| 🥇 | **Chai** | A | Cooper Flagg + Banchero = 올시즌 베스트 딜 |
+| 🥇 | **알낳아스미스** | A | SGA+Bridges+JJJ 삼각편대 완성 |
+| 🥇 | **LBJ** | A | Luka+Bam+J-Will 빅3 |
+| 4 | **LeBron🦅** | A- | Jokić 영입, 양으로 승부 |
+| 4 | **the beta** | A- | Fox+Bane 콤보 ← 숨은 승자 |
+| 4 | **Super Shai** | A- | Ant Edwards 영입 |
+| 7 | **마파** | B+ | KAT 머신 가동 |
+| 8 | **Alpha_Yoonique** | B | Harden 영입, 베테랑 수집 |
+| 9 | **gohay** | B | Herro+IQ 가드진 |
+| 9 | **스테고** | B | Turner 블록왕 + RJ Barrett |
+| 11 | **Fantastic2** | B- | Derrick White만 건짐 |
+| 12 | **베르가_A** | C+ | 부상 선수만 모음 |
+| 13 | **God Popo** | C | Embiid↔Ware 왔다갔다 |
+| 14 | **The Alpha** | C | Hartenstein 하나 |
+
+---
+
+## 🎯 결론
+
+### 올시즌 베스트 트레이드
+**Chai ↔ LeBron🦅 (12/18)**
+- Chai: Cooper Flagg + Paolo Banchero 획득
+- LeBron🦅: Reed Sheppard + KAT 획득
+
+양쪽 다 윈윈이지만, Flagg의 신인왕 레이스를 보면 Chai가 약간 더 이득.
+
+### 올시즌 빅딜
+**알낳아스미스 ↔ LeBron🦅 (1/28)**
+- 알낳아스미스: SGA + Mikal Bridges + Nic Claxton
+- LeBron🦅: Nikola Jokić + RJ Barrett + Queta
+
+역대급 3:3 트레이드. Jokić vs SGA+Bridges+Claxton... 어느 쪽이 이겼는지는 시즌 끝나야 안다.
+
+### 숨은 승자
+**the beta_나는 돌맹이🥌**
+
+Chai한테서 De'Aaron Fox + Desmond Bane을 뽑아냈다. 이전 분석에서 D+ 줬던 건 큰 실수. 실제로는 **A-급** 트레이드 성적.
 
 ---
 
