@@ -1,6 +1,6 @@
 ---
 title: "🎭 TABFL 매니저 프로파일링: 당신은 어떤 GM입니까?"
-date: 2026-02-12T10:30:00+09:00
+date: 2026-02-12T13:00:00+09:00
 draft: false
 categories: ["column"]
 summary: "16만 건의 채팅 분석! 각 팀 매니저의 성향, MBTI, 그리고 NBA GM/감독 비유까지. 개인정보 없이 순수 데이터 분석."
