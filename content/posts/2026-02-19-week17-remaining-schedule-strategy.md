@@ -1,6 +1,6 @@
 ---
 title: "🧨 [2026-02-20] TABFL 잔여 대진(Week 18~20) 해부: 이제 경기 수 말고 상대를 봐야 한다"
-date: 2026-02-20
+date: 2026-02-19T23:30:00+09:00
 draft: false
 categories: ["주간리뷰"]
 tags: ["스테고", "The Alpha", "Alpha_Yoonique", "베르가_A", "Fantastic2", "God Popo", "LBJ", "LeBron🦅", "Super Shai", "Chai", "마파", "알낳아스미스", "gohay", "the beta_나는 돌맹이🥌"]
