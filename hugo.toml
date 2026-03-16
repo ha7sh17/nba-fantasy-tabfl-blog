@@ -27,16 +27,6 @@ cleanDestinationDir = true
 
 [menu]
   [[menu.main]]
-    identifier = "predictions"
-    name = "🔮 예측"
-    url = "/categories/daily-prediction/"
-    weight = 10
-  [[menu.main]]
-    identifier = "reviews"
-    name = "📊 리뷰"
-    url = "/categories/daily-review/"
-    weight = 20
-  [[menu.main]]
     identifier = "weekly-predictions"
     name = "📅 주간예측"
     url = "/categories/주간예측/"
